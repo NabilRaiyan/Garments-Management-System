@@ -1,0 +1,30 @@
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe.config
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.pdb
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\MaterialSkin.dll
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.AssemblyReference.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.Properties.Resources.resources
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.GenerateResource.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CoreCompileInputs.cache
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CopyComplete
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.exe
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.pdb
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormLogin.resources
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormWarehouseManager.resources
+E:\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormAdmin.resources
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe.config
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.exe
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\GarmentsManagementSystem.pdb
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\bin\Debug\MaterialSkin.dll
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.AssemblyReference.cache
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormAdmin.resources
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormLogin.resources
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.FormWarehouseManager.resources
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.Properties.Resources.resources
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.GenerateResource.cache
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CoreCompileInputs.cache
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.csproj.CopyComplete
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.exe
+E:\Courses\AIUB Courses\8th Semester\C# Course AIUB\C# Final Project (Garments Management System)\GarmentsManagementSystem\GarmentsManagementSystem\obj\Debug\GarmentsManagementSystem.pdb
