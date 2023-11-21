@@ -25,3 +25,7 @@
 <h3>Run the Application:</h3>
 <p>1. Open the project in Visual Studio.</p>
 <p>2. Build and run the application.</p>
+
+
+<h3>Dependencies</h3>
+<p>Ensure you have Visual Studio installed to run and modify the project.</p>
